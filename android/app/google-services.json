@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "243209972551",
+    "firebase_url": "https://apihpfirebase-default-rtdb.firebaseio.com",
+    "project_id": "apihpfirebase",
+    "storage_bucket": "apihpfirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243209972551:android:de2e072e89bc7974dfba62",
+        "android_client_info": {
+          "package_name": "com.example.praktikum1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBY6wpqH5SOyB-AokJrNKT_DE6M2K_t9oY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243209972551:android:b63bb8fba1fad85cdfba62",
+        "android_client_info": {
+          "package_name": "com.example.projek_uts"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBY6wpqH5SOyB-AokJrNKT_DE6M2K_t9oY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
